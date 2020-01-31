@@ -1,4 +1,4 @@
-The deployd Hooks News app: [Hooks News](https://hooks-news-4870e.firebaseapp.com/new/1)
+The deployed Hooks News app: [Hooks News](https://hooks-news-4870e.firebaseapp.com/new/1)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
